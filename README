@@ -1,2 +1,3 @@
 This is a linux kernel replacement recipe for the Gumstix Overo to enable CONFIG_PREEMPT_RT real-time patch.
-First follow the instructions at https://github.com/gumstix/Gumstix-YoctoProject-Repo before replacing the kernel provided in the meta-gumstix layer with the one provided in this repository.
+
+First follow the instructions at https://github.com/gumstix/Gumstix-YoctoProject-Repo before replacing the kernel recipe provided in the meta-gumstix layer with the one provided in this repository.

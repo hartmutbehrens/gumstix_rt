@@ -79,7 +79,6 @@ TOOLS_INSTALL = " \
   nano \
   ldd \ 
   openssh-ssh openssh-keygen openssh-scp openssh-sshd-systemd \
-  opencv \ 
   python-setuptools \
   rt-tests \ 
   strace \ 
